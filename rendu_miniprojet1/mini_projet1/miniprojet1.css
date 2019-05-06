@@ -1,0 +1,61 @@
+body{
+    background-image: url(../images/background.jpg);
+    color: white;
+    font-size: 15px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    color:palevioletred;
+}
+#logo{
+    margin-top: -10px fixed;
+    margin-left: 10px;
+    border-radius: 2px solid;
+
+    }
+
+ p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+
+#conteneurfooter{
+
+    padding: 2%;
+    margin-top: 10px;
+}  
+#footer{
+
+    text-align: center;
+    padding: 1%;
+
+}
+.deficit{
+    color: red;
+
+  }
+.tab{
+    margin-top: 15%;
+    margin-left: 25%;
+    background-color: #000;
+}
+#ajout{
+    margin-left: 10px;
+    margin-top: 15%;
+}
+.carousel-item {
+   margin-bottom: 10%;
+   margin-top: 10%;
+   margin-left: 30%;
+   position: relative;
+   widows: 99% center;
+}
+.carousel-item active{
+    margin-bottom: 20%;
+    margin-top: 20%;
+    margin-left: 30%;
+    position: relative;
+    widows: 99% center;
+ }
